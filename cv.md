@@ -12,3 +12,6 @@
 ## about
 diving into the _frontend_
 ===
+## languages
+* **Russian** - native
+* **English**
